@@ -1,3 +1,0 @@
-using ConsoleApp;
-
-TimeUtility.PrintTime();
