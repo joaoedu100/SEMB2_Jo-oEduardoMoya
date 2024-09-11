@@ -1,0 +1,31 @@
+-Programação procedural e POO:
+
+-Programação Procedural: Focada no uso de funções ou procedimentos para manipular dados. As operações são realizadas em uma sequência lógica de instruções, de forma linear. Já a Programação Orientada a Objetos (POO): A POO organiza o desenvolvimento em torno de "objetos", que são exemplares de "classes". Esses objetos possuem tanto dados (atributos) quanto comportamentos (métodos). Ao invés de priorizar operações, a POO estrutura o software com base nas relações entre objetos.
+-As principais diferenças são que: A Programação Procedural se fundamenta-se em instruções sequenciais para manipulação de dados. Por outro lado, a POO foca em objetos que combinam dados e métodos, favorecendo a modularidade e a reutilização de código.
+
+-Classe e Objeto:
+
+-CLASSE é um modelo que especifica os atributos e comportamentos que um objeto terá e o OBJETO é uma realização concreta de uma classe, com seus próprios atributos e capaz de executar os métodos definidos na classe.
+
+-Encapsulamento:
+
+-O encapsulamento restringe o acesso direto aos atributos de um objeto, assim fornecendo métodos específicos para modificá-los. Dessa forma, protege-se o estado interno do objeto e assegura-se a integridade dos dados.
+
+-Abstração:
+
+-A abstração consiste em esconder a complexidade interna de um sistema e fornecer apenas as funcionalidades essenciais permitindo que o usuário interaja com os objetos de forma mais simples, sem se preocupar com detalhes técnicos.
+
+-Herança:
+
+A herança possibilita que uma classe (chamada de subclasse) adquira os atributos e métodos de outra classe (superclasse), facilitando a reutilização de código e a criação de hierarquias de classes. A subclasse tem o poder de ampliar ou ajustar o comportamento herdado.
+
+-Polimorfismo:
+
+O polimorfismo permite que objetos de diferentes classes sejam manipulados como se pertencessem a uma classe comum. Isso simplifica o código e pode ser alcançado por meio de sobrecarga (métodos com diferentes assinaturas) ou sobrescrita (modificação de métodos em subclasses).
+
+-Os benefícios que a POO traz na criação de um software:
+
+-Facilidade de manutenção: A estrutura em objetos e classes facilita a compreensão, manutenção e expansão do software.
+-Reutilização: Objetos e classes podem ser reaproveitados em várias partes do programa ou em outros projetos.
+-Segurança: O encapsulamento assegura que os dados só sejam alterados de forma controlada.
+-Modularidade: As diferentes partes do software podem ser desenvolvidas e ajustadas independentemente.
